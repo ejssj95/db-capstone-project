@@ -1,2 +1,1 @@
-﻿# db-capstone-project 
- setting up project repository 
+Meta database enginnering
